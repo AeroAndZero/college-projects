@@ -125,4 +125,5 @@ void main() {
 			break;
 		}
 	}
+	getch();
 }
